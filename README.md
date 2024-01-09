@@ -8,3 +8,7 @@ Introduction to Algorithms Third Edition, Python implementation.《算法导论�
 **大概率会注明一些和原来的伪代码不同的地方，比如边界条件需要处理等等。**
 
 随写随更新。
+
+2024年1月9日Readme更新：
+
+准备转行学机械去了，所以这个仓库更新到什么时候就不一定了。也不是没可能继续更完。
