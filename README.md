@@ -9,6 +9,6 @@ Introduction to Algorithms Third Edition, Python implementation.《算法导论�
 
 随写随更新。
 
-2024年1月9日Readme更新：
+2024年3月1日Readme更新：
 
-准备转行学机械去了，所以这个仓库更新到什么时候就不一定了。也不是没可能继续更完。
+转Java了，这个仓库应该不会再更新了，但我会重新写一份Java版本的实现。
